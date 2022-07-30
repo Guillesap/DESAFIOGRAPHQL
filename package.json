@@ -1,7 +1,7 @@
 {
   "name": "graphql",
   "version": "1.0.0",
-  "description": "Desafío entregable para el curso de backend de Coderhouse",
+  "description": "Desafío Graphql",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,7 +16,6 @@
   "keywords": [],
   "author": "guillesapag",
   "license": "ISC",
-  "homepage": "",
   "dependencies": {
     "@faker-js/faker": "^6.0.0",
     "autocannon": "^7.9.0",
