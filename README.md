@@ -1,4 +1,4 @@
-# GraphQl
+# Desafio GraphQl
 Desafío entregable para el curso de backend de Coderhouse
 
 <h2 align="center">⭐️Desafio "VHS" ⭐️</h2>
